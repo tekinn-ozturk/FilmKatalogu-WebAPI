@@ -1,6 +1,6 @@
 ## API Endpoints
 
-API, aşağıdaki temel CRUD operasyonlarını destekler:
+API, aşağıdaki CRUD operasyonlarını gerçekleştirir:
 
 - **Film İşlemleri:**
   - `GET /api/Film/TumFilmleriGetir`: Bütün filmleri getirir.
